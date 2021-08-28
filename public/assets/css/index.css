@@ -1,0 +1,40 @@
+
+.total-price{
+    font-size: 20px;
+    color: black;
+}
+.fee-discount{
+    border-bottom: 3px solid #eeeeee;
+    padding-bottom: 0.5rem;
+}
+.d-flex-space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.d-flex-start{
+    display: flex;
+    justify-content: start;
+}
+.d-flex-end{
+    display: flex;
+    justify-content: center;
+}
+.pd-top-1{
+    padding-top: 1rem;
+}
+.topbar .navbar-search {
+    width: 30rem;
+}
+.fa-bell:before {
+    color: #fff;
+}
+.fa-envelope:before {
+    color: #fff;
+}
+.sidebar .nav-item .nav-link .img-profile, .topbar .nav-item .nav-link .img-profile {
+    height: 2.5rem;
+    width: 2.5rem;
+}
+.f-25{
+    font-size: 25px;
+}

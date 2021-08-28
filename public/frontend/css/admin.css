@@ -1,0 +1,21 @@
+.font-size-20{
+    font-size: 17px !important;
+}
+.bg-green{
+    background-color: #117c11 !important;
+}
+.color-white{
+    color: white;
+}
+.sidebar-dark .nav-item .nav-link {
+    color: white !important;
+}
+.fa-utensils:before {
+    color: white !important;
+}
+.fa-list-alt:before {
+    color: white !important;
+}
+.nav-link :active{
+    color: #117c11 !important;
+}
